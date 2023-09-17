@@ -1,2 +1,2 @@
-# Algorithm
-알고리즘 문제를 기록하는 레포지토리입니다.
+# Algorithm 문제 기록 레포지토리
+사용언어: Swift
