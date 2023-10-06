@@ -14,5 +14,5 @@
 ## 구현
 | 문제 번호 | 문제 제목 | Swift | 난이도 |
 | :-------: | :---: | :------: | :--: | 
-| 이코테 | [상하좌우](https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [🔗]() | ●○○ | 
-| 이코테 | [시각](https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EC%8B%9C%EA%B0%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [🔗]() | ●○○ | 
+| 이코테 | [상하좌우](https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [🔗](https://github.com/eung7/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.swift) | ●○○ | 
+| 이코테 | [시각](https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EC%8B%9C%EA%B0%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [🔗](https://github.com/eung7/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81.swift) | ●○○ | 
