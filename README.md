@@ -16,3 +16,5 @@
 | :-------: | :---: | :------: | :--: | 
 | 이코테 | [상하좌우](https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [🔗](https://github.com/eung7/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.swift) | ●○○ | 
 | 이코테 | [시각](https://velog.io/@suzieep/Algorithm-%EC%9D%B4%EC%BD%94%ED%85%8C-%EC%8B%9C%EA%B0%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC) | [🔗](https://github.com/eung7/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81.swift) | ●○○ | 
+| 이코테 | [왕실의 나이트](https://wooono.tistory.com/487) | [🔗](https://github.com/eung7/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.swift) | ●○○ | 
+| 이코테 | [게임 개발](https://wooono.tistory.com/488) | [🔗](https://github.com/eung7/Algorithm/blob/master/%EA%B5%AC%ED%98%84/%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C.swift) | ●●○ | 
